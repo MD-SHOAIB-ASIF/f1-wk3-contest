@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------------------- */
+#aic{
+    width: 15vw;
+    margin-left: 100px;
+}
+
+
+/* navbar */
+.navbar-wrapper{
+    width: 90%;
+    padding: 20px 0px;
+
+}
+
+.ulit>li{
+    list-style: none;
+    padding: 0 20px;
+    padding-top: 10px;
+}
+
+
+/* --------------------------------- */
+
+
+/* announcemnt -header */
+
+#announcement{
+    background-color: #2F80ED;
+    width: 100%;
+    padding-top: 10px;
+    color: white;
+    
+}
+
+/* ---------------------------hero section------------------------------------- */
+
+.launch{
+    flex: 3;
+    width: 100%;
+    background-color: #ffffff;
+    margin-bottom: 100px;
+}
+
+/* --hero section 1 */
+
+.herotxt{
+    width: 70%;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.herotxt2{
+    width: 60%;
+    margin-left: 100px;
+    margin-top: 10px;
+
+}
+
+#love{
+    margin: 10px 0px;
+    background-color: #f4f4f4;
+     border-radius: 20px;
+     padding: 4px 0px;
+     padding-left: 15px;
+     width: 130px;
+     font-size: 6px;
+     box-shadow: 1px 1px 10px 1px rgb(121, 120, 120);
+     margin-left: 100px;
+     
+}
+
+
+/* -card- */
+
+.card-wrapper{
+    width: 100%;
+    flex: 2;
+    background-color: #ffffff;
+    
+
+}
+.card{
+    border-radius: 20px;
+    height: 600px;
+    width: 90%;
+    margin: 40px 10px;
+
+}
+
+.card>input{
+    padding: 1px 200px;
+    margin: 10px 0px;
+    border-radius: 10px;
+
+
+}
+
+
+
+#card1{
+    width: 60%;
+
+}
+
+#card2{
+    width: 50%;
+    
+}
+
+/* --------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
